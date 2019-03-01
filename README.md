@@ -52,7 +52,6 @@ You will be better equipped to work through this lesson if you have experience i
 **Experiment with themes and plugins.** Practice with installing, activating, deactivating, and deleting themes and plugins.
 
 1.  Create a WordPress site or log into your existing WordPress site.
-    *   [How to Install WordPress on a Server](https://make.wordpress.org/training/handbook/lesson-plans/user-lessons/how-to-install-wordpress-on-a-server/)
     *   [Local Install](https://github.com/wptrainingteam/local-install)
 2.  Browse the WordPress.org Theme Directory, find an attractive theme, and install it.
     *   [Choosing and Installing A Theme](hhttps://github.com/wptrainingteam/choosing-and-installing-themes)
