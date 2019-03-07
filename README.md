@@ -18,8 +18,8 @@ You will be better equipped to work through this lesson if you have experience i
 
 *   A basic understanding of WordPress
 *   A basic understanding of the difference between a theme and a plugin
-*   Basic knowledge of [installing and activating WordPress themes](https://make.wordpress.org/training/handbook/user-lessons/choosing-and-installing-a-theme/)
-*   Basic knowledge of [installing and activating WordPress plugins](https://make.wordpress.org/training/handbook/user-lessons/choosing-and-installing-plugins/)
+*   Basic knowledge of [installing and activating WordPress themes](https://github.com/wptrainingteam/choosing-and-installing-themes)
+*   Basic knowledge of [installing and activating WordPress plugins](https://github.com/wptrainingteam/choosing-and-installing-plugins)
 
 ## Assets
 
@@ -52,15 +52,14 @@ You will be better equipped to work through this lesson if you have experience i
 **Experiment with themes and plugins.** Practice with installing, activating, deactivating, and deleting themes and plugins.
 
 1.  Create a WordPress site or log into your existing WordPress site.
-    *   [How to Install WordPress on a Server](https://make.wordpress.org/training/handbook/user-lessons/how-to-install-wordpress-on-a-server/)
-    *   [Local Install](https://make.wordpress.org/training/handbook/theme-school/local-install/)
+    *   [Local Install](https://github.com/wptrainingteam/local-install)
 2.  Browse the WordPress.org Theme Directory, find an attractive theme, and install it.
-    *   [Choosing and Installing A Theme](https://make.wordpress.org/training/handbook/user-lessons/choosing-and-installing-a-theme/)
+    *   [Choosing and Installing A Theme](hhttps://github.com/wptrainingteam/choosing-and-installing-themes)
 3.  What has changed on your site?
 4.  Students should then deactivate the theme and install a different one.
 5.  Explore the changes to the site.
 6.  Browse the WordPress.org Plugin Directory, find a plugin that interest you, and install it.
-    *   [Choosing and Installing Plugins](https://make.wordpress.org/training/handbook/user-lessons/choosing-and-installing-plugins/)
+    *   [Choosing and Installing Plugins](https://github.com/wptrainingteam/choosing-and-installing-plugins)
 7.  What has changed on your site?
 
 ## Point Out to Students
