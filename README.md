@@ -35,7 +35,7 @@ You will be better equipped to work through this lesson if you have experience i
 
 *   **Time Estimate:** 15 minutes
 *   For this lesson, we are assuming that the student has a basic understanding of how to set up a WordPress site and has chosen and installed themes and plugins.
-*   The preferred answers to the screening questions is “yes.” Participants who reply “no” to all questions may not be ready for this lesson.
+*   The preferred answers to the screening questions are “yes.” Participants who reply “no” to all questions may not be ready for this lesson.
 
 ## Hands-on Walkthrough
 
